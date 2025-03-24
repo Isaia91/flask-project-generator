@@ -13,12 +13,14 @@ Ce projet permet de générer une structure de base pour une application Flask a
 1. Clonez ce repository sur votre machine locale :
    ```bash
    git clone https://github.com/Isaia91/flask-project-generator.git
+   ```
+   
 2. Accédez au dossier du projet :
   ```bash
   cd flask-project-generator
   ```
 
-3. Assurez-vous que Python est installé sur votre machine.
+3. Assurez-vous que Python et Flask sont installés sur votre machine.
 
 4. Ajouter au Path de votre système le répertoire contenant le script flask_init.bat :
    ```bash
