@@ -16,9 +16,9 @@ Ce projet permet de générer une structure de base pour une application Flask a
    ```
    
 2. Accédez au dossier du projet :
-  ```bash
-  cd flask-project-generator
-  ```
+     ```bash
+     cd flask-project-generator
+     ```
 
 3. Assurez-vous que Python et Flask sont installés sur votre machine.
 
