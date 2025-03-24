@@ -38,4 +38,4 @@ Ce projet permet de générer une structure de base pour une application Flask a
  flask-init NomProjet
  ```
 
-**Remplacez NomProjet par le nom de votre projet Flask**.
+Remplacez ***NomProjet*** par le nom de votre projet Flask.
