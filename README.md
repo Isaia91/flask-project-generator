@@ -34,7 +34,7 @@ Ce projet permet de générer une structure de base pour une application Flask a
    ```
    ou bien :
     ```bash
-   set PATH=%PATH%;C:\chemin\du\repertoire\qui\contient\le\script\.bat
+    $env:PATH += ";C:\chemin\du\repertoire\qui\contient\le\script\.bat"
    ```
 
 5.Pour créer un projet Flask, exécutez le script avec le nom de votre projet :
