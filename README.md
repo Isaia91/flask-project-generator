@@ -30,7 +30,11 @@ Ce projet permet de générer une structure de base pour une application Flask a
    
    Dans Variables système, trouve la variable Path et éditez-la.
    
-   Cliquer sur Nouveau et ajoute : C:\chemin\du\repertoire\avec\le\script\.bat
+   Cliquer sur Nouveau et ajoute : C:\chemin\du\repertoire\qui\contient\le\script\.bat
+   ```
+   ou bien :
+    ```bash
+   set PATH=%PATH%;C:\chemin\du\repertoire\qui\contient\le\script\.bat
    ```
 
 5.Pour créer un projet Flask, exécutez le script avec le nom de votre projet :
