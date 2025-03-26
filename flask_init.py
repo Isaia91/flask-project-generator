@@ -46,9 +46,6 @@ def get_default_content(filename):
     if filename == "requirements.txt":
         return "Flask"
 
-    if filename == "README.md":
-        return f"# {project_name}\n\n## Installation\n```\npip install -r requirements.txt\n```\n\n## Exécution\n```\npython run.py\n```"
-
     return ""
 
 if __name__ == "__main__":
